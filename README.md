@@ -6,3 +6,13 @@ Stack
 * Jest v29
 * TS v5.5
 * NextJS v14
+
+
+## Initialization
+
+In a terminal execute the following commands inside project folder
+
+`yarn`
+`yarn dev` or `yarn build && yarn start`
+
+To initialize storybook: `yarn build-storybook && yarn storybook`
