@@ -12,6 +12,11 @@ If you are familiar with other programming languages but new to JavaScript, this
 - **Storybook** v8.2 - A tool for developing and testing UI components in isolation.
 - **Jest** v29 - A testing framework to ensure your code works as expected.
 
+## Minimum requirements
+- **Node** v20 - [Node.js](https://nodejs.org/en) is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+tip: try use a Node Version Manager like [nvm](https://docs.redwoodjs.com/docs/how-to/using-nvm/#:~:text=nvm%20is%20a%20Node%20Version,js%20on%20the%20same%20machine.)
+
 ## What You Need to Know Before Starting
 
 ### 1. Node.js and npm
