@@ -5,6 +5,7 @@ const create = nextJest({
 });
 
 const config = {
+  testMatch: ['<rootDir>/src/**/*.(spec|test).[jt]s?(x)'],
   setupFilesAfterEnv: ['<rootDir>/jest.setup.ts'],
   testEnvironment: 'jest-environment-jsdom',
   moduleNameMapper: {
